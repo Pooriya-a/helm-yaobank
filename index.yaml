@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  yaobank:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-06-15T09:58:00.837298422-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 796c108f204e652927c3048b6489b469c8fb441d9cc780276cc08ee1f4b3af99
+    name: yaobank
+    type: application
+    urls:
+    - yaobank-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-06-15T09:58:00.836326649-07:00"
